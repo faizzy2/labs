@@ -1,0 +1,90 @@
+{
+    "transport_1": {
+        "transport_id": 1,
+        "license_plate": "X333XX",
+        "passenger_capacity": 10,
+        "driver": {
+            "name": "Vodila",
+            "age": 52
+        },
+        "passengers": {
+            "passenger_1": {
+                "passenger_id": 1,
+                "name": "Aleksey",
+                "age": 19,
+                "ticket": {
+                    "cost": 55,
+                    "payment_time": "8:30"
+                }
+            },
+            "passenger_2": {
+                "passenger_id": 2,
+                "name": "Vladimir",
+                "age": 19,
+                "ticket": {
+                    "cost": 55,
+                    "payment_time": "9:00"
+                }
+            },
+            "passenger_3": {
+                "passenger_id": 3,
+                "name": "Nikita",
+                "age": 20,
+                "ticket": {
+                    "cost": 55,
+                    "payment_time": "9:00"
+                }
+            }
+        },
+        "route_number": "404",
+        "transportation_company": {
+            "name": "MosGorTrans",
+            "address": "Moscow",
+            "contact_info": "88005553535"
+        }
+    },
+    "transport_2": {
+        "transport_id": 2,
+        "license_plate": "X332XX",
+        "passenger_capacity": 100,
+        "driver": {
+            "name": "Vodila",
+            "age": 52
+        },
+        "passengers": {
+            "passenger_1": {
+                "passenger_id": 1,
+                "name": "Aleksey",
+                "age": 19,
+                "ticket": {
+                    "cost": 55,
+                    "payment_time": "8:30"
+                }
+            },
+            "passenger_2": {
+                "passenger_id": 2,
+                "name": "Vladimir",
+                "age": 19,
+                "ticket": {
+                    "cost": 55,
+                    "payment_time": "9:00"
+                }
+            },
+            "passenger_3": {
+                "passenger_id": 3,
+                "name": "Nikita",
+                "age": 20,
+                "ticket": {
+                    "cost": 55,
+                    "payment_time": "9:00"
+                }
+            }
+        },
+        "route_number": "400",
+        "transportation_company": {
+            "name": "MosGorTrans",
+            "address": "Moscow",
+            "contact_info": "88005553535"
+        }
+    }
+}
